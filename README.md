@@ -1,4 +1,4 @@
-- 👋 Hello!, I’m Ashland S.
+- 👋 Hello!, I’m Austin G!
 - 👀 I’m interested in blockchain development, cyber security, skateboarding and drifting my 240sx!
 - 🌱 I’m currently practicing for my Linux+ certification. I want to become an Ethical Hacker!
 - 💞️ I’m looking to collaborate on anything! just looking to learn as much as possible!

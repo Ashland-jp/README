@@ -1,4 +1,4 @@
-- 👋 Hello!, I’m Austin G!
+- 👋 Hello!, I’m Ash!
 - 👀 I’m interested in blockchain development, cyber security, extrrem sports and drifting.
 - 🌱 I’m learning Web2 development and security while also teachaning myself Solidity. I want to work in Blockchain development and security!
 - 💞️ I’m looking to collaborate on anything, I just want to learn as much as possible!

@@ -1,8 +1,8 @@
 - 👋 Hello!, I’m Austin G!
-- 👀 I’m interested in blockchain development, cyber security, skateboarding and drifting my 240sx!
-- 🌱 I’m currently developing Smart Contracts. I want to become a Blockchain Dev!
-- 💞️ I’m looking to collaborate on anything! I'm just looking to learn as much as possible!
-- 📫 How to reach me... @Ashland_S13 on Instagram, @Ashland_Media on Twitter and <a rel="me" href="https://infosec.exchange/@Ashland">@Ashland@infosec.exchange on Mastodon</a>
+- 👀 I’m interested in blockchain development, cyber security, extrrem sports and drifting.
+- 🌱 I’m learning Web2 development and security while also teachaning myself Solidity. I want to work in Blockchain development and security!
+- 💞️ I’m looking to collaborate on anything, I just want to learn as much as possible!
+- 📫 How to reach me... @carshop.ashland on Instagram and <a rel="me" href="https://infosec.exchange/@Ashland">@Ashland@infosec.exchange on Mastodon</a>
 
 <!---
 agoett89/agoett89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

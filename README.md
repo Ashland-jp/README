@@ -1,8 +1,8 @@
 - 👋 Hello!, I’m Ash!
-- 👀 I’m current interests include cyber security, skateboarding and Japanese car culture.
-- 🌱 I’m learning cybersecurity fundamentals through Google's Foundations of Cybersecurity course on Coursera. I've dabbled in a little bit of programming including Python, Javascript, SQL, Bash, and Solidity.
-- 💞️ I just want to learn as much as possible!
-- 📫 How to reach me... @ashland_austin on Instagram and @ashland_media on X
+- 👀 My current interests include cybersecurity, skateboarding and Japanese car culture.
+- 🌱 I’m learning cybersecurity fundamentals through a multitude of sources including TryHackMe, HackTheBox, and Google's Foundations of Cybersecurity course on Coursera. I've dabbled in a little bit of programming including Python, Javascript, SQL, Bash, and Solidity.
+- 💞️ Apparently obsessed with learning as much as possible!
+- 📫 How to reach me... @ashland_media on X
 
 <a href="https://wigle.net">
 <img border="0" src="https://wigle.net/bi/k1XMa_l2mdT+7sn2OV9J0w.png">

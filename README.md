@@ -4,6 +4,10 @@
 - 💞️ I just want to learn as much as possible!
 - 📫 How to reach me... @ashland_austin on Instagram and @ashland_media on X
 
+<a href="https://wigle.net">
+<img border="0" src="https://wigle.net/bi/k1XMa_l2mdT+7sn2OV9J0w.png">
+</a>
+
 <!---
 agoett89/agoett89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

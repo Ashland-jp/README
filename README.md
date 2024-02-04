@@ -2,7 +2,8 @@
 - 👀 My current interests include cybersecurity, skateboarding and Japanese car culture
 - 🌱 I’m learning cybersecurity fundamentals through many different sources including TryHackMe, HackTheBox, and Google's Foundations of Cybersecurity course on Coursera.
         I've dabbled in a little bit of programming including Python, Javascript, SQL, Bash, and Solidity.
-        Also very passionate about building small electronics projects like my RaspberryPi3b+ WarDriving rig
+        Also very passionate about building small electronics projects like my RaspberryPi3b+ WarDriving rig amoung other things. 
+- ♻️ Passionate Upcycler(hoarder of things)
 - 💞️ Apparently obsessed with learning as much as possible!
 - 📫 How to reach me... @ashland_media on X
 

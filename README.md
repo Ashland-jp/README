@@ -31,7 +31,8 @@
 A small electronics project where I setup a Raspberry Pi 3b+ for WarDriving, capturing WiFi networks and analyzing their security.
 
 ### Random Object Retrofits
-Netgear Nighthawk **X** PiZero 2W (write-up is wip)
+[Netgear Nighthawk **X** PiZero 2W](https://github.com/Ashland-jp/NetgearPiZero2W/tree/main)
+
 Xfinity Xfi pod **X** Xiao ESP32S3(fitted, needs marauder functioning)
 
 When I’m not learning or tinkering with electronics, you can find me hitting the skatepark or enjoying japanese car culture!

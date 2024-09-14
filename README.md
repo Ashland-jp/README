@@ -22,6 +22,7 @@
 
     [LinkedIn](https://www.linkedin.com/in/Austin%20Goettelmann)
     [X](https://twitter.com/Ashland_media)
+    [Mastodon](https://infosec.exchange/@Ashland)
     [Instagram](@ashland_austin)
 
 ## 📌 Featured Projects

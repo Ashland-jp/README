@@ -8,8 +8,8 @@
     🌱 Proficient with Linux. I’m currently diving into cybersecurity fundamentals with a current focus on web application security
     through platforms like TryHackMe, and HackTheBox. I have completed courses like Google’s Foundations of Cybersecurity
     and a few begninner learning paths on TryHackMe. I’ve also explored programming with Python, JavaScript, SQL, Bash, and Solidity.
-    🔧 I’m passionate about building small electronics projects, such as my RaspberryPi3b+ WarDriving rig, and retrofitting small-board computers into random objects.
-    ♻️ I’m a passionate upcycler (hoarder of interesting things), always on the lookout for new materials and tools to repurpose.
+    🔧 I genuinely enjoy building small electronics projects, such as my RaspberryPi3b+ WarDriving rig, and retrofitting small-board computers into random objects.
+    ♻️ I’m an avid upcycler (hoarder of interesting things), always on the lookout for new materials and tools to repurpose.
     📫 How to reach me: @ashland_media on X
 
 ### 🛠️ Technologies & Tools

@@ -1,22 +1,26 @@
 # Hi, I’m Austin! 👋
 
-    I’m a passionate carpenter who loves ethical hacking and building odd electronics projects. 
-    I'm also a lifelong skateboarder as well as non-professional drift car builder/fabricator. 
-    I enjoy combining my technical skills with my diverse interests to create unique and innovative solutions.
+    I’m a carpenter. I enjoy learning hacking, programming, and building odd electronics. 
+    Lifelong skateboarder as well as drift car builder/fabricator. 
+    I enjoy combining my natural technical skills with my diverse(ADHD) interests to create cool things 
+        whether its houses, cars, tech toys, and now software and security.(maybe DevOPs is a good move for me?) 
+    I have no real skin in the game. I just do this because I love it and I can't help but keep learning more. 
+                    
+                            
+    
 ## **🚀 About Me**
 
-    🌱 Proficient with Linux. I’m currently diving into cybersecurity fundamentals with a current focus on web application security
-    through platforms like TryHackMe, and HackTheBox. I have completed courses like Google’s Foundations of Cybersecurity
-    and a few begninner learning paths on TryHackMe. I’ve also explored programming with Python, JavaScript, SQL, Bash, and Solidity.
-    🔧 I genuinely enjoy building small electronics projects, such as my RaspberryPi3b+ WarDriving rig, and retrofitting small-board computers into random objects.
+    🌱 I’m currently focusing on programming and networking. I'm also playing with local llm's, MCP server creation and implementation.
+       We're in the 'throw shit at the wall and see what sticks' phase. 
+    🔧 I genuinely enjoy building small electronics projects and retrofitting small-board computers into random objects
     ♻️ I’m an avid upcycler (hoarder of interesting things), always on the lookout for new materials and tools to repurpose.
     📫 How to reach me: @ashland_media on X
 
 ### 🛠️ Technologies & Tools
-                *too much to list
-    Languages: Little bit of Python, Javascript, Solidity,and Bash
-    Favorite Tools: Metasploit, Burpsuite, Wireshark, Docker, Ollama
-    Cybersecurity Platforms: TryHackMe, HackTheBox, Portswigger Academy, Cisco Networking Academy, Hacker101, PicoCTF, OverTheWire
+                
+    Languages:Bash/PS. Learning Python. Aspiring to C/C++. Lil bit of Solidity, JS, HTML, CSS.
+    Favorite Tools: I use Arch btw. Metasploit, Wireshark, Docker, Ollama, Vim
+    Im in the Top 3% on TryHackMe for whatever thats worth LMAO
 
 ### 🔗 Links
 

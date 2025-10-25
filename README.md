@@ -1,6 +1,6 @@
 # Hi, I’m Austin! 👋
 
-    I’m a carpenter. I enjoy learning hacking, programming, and building odd electronics. 
+    I’m a carpenter by trade. I enjoy learning hacking, programming, and building odd electronics. Working on CS50
     Lifelong skateboarder as well as drift car builder/fabricator. 
     I enjoy combining my natural technical skills with my diverse(ADHD) interests to create cool things 
         whether its houses, cars, tech toys, and now software and security.(maybe DevOPs is a good move for me?) 
